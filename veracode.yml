@@ -1,3 +1,5 @@
+default:
+  runs_on: windows-latest
 actions:
   veracode_static_scan:
     build:
